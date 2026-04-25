@@ -1,0 +1,17 @@
+package com.shopms.cliente.domain.repository;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.shopms.cliente.domain.model.Customer;
+
+public interface CustomerRepository {
+
+    List<Customer> findAll();
+
+    Optional<Customer> findById(String id);
+
+    Customer save(Customer customer);
+
+    void deleteById(String id);
+}

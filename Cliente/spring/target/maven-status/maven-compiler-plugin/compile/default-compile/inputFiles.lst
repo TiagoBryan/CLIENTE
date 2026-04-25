@@ -1,0 +1,8 @@
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\ClienteApplication.java
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\infrastructure\persistence\document\AddressDocument.java
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\infrastructure\persistence\document\CustomerDocument.java
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\infrastructure\persistence\mapper\CustomerPersistenceMapper.java
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\infrastructure\persistence\repository\MongoCustomerRepositoryAdapter.java
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\infrastructure\persistence\repository\SpringDataCustomerRepository.java
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\interfaces\rest\CustomerController.java
+C:\Users\tiago_0mao8ei\Documents\workspace\ShopMs\Cliente\spring\src\main\java\com\shopms\cliente\interfaces\rest\RestExceptionHandler.java
